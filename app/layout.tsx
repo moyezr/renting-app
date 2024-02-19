@@ -9,8 +9,8 @@ import getCurrentUser from "./actions/getCurrentUser";
 import RentModal from "./components/modals/RentModal";
 import SearchModal from "./components/modals/SearchModal";
 export const metadata = {
-  title: "AirBNB Clone",
-  description: "Airbnb Clone",
+  title: "Rent Rover",
+  description: "RentRover",
 };
 
 const font = Nunito({

@@ -110,7 +110,7 @@ const LoginModal = () => {
       />
       <div className="text-neutral-500 text-center font-light mt-4">
         <div className="flex flex-row items-center gap-2 justify-center">
-          <div>First time using Airbnb?</div>
+          <div>First time using RentRover?</div>
           <div
             onClick={() => onToggle()}
             className="text-neutral-800 cursor-pointer hover:underline"
